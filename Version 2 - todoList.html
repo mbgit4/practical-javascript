@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <title>Practicle JavaScript</title>
+  </head>
+  
+  <body>
+    <script>
+      var todos = ['Item 1', 'Item 2', 'Item 3'];
+
+      console.log(todos);
+
+      function add(todo) {  // todos.push('Item 4'); This line was replaced with the updated function(todo)
+        todos.push(todo);
+        console.log(todos);
+      }
+
+      todos[0] = 'Item 1 Updated';
+
+      todos.splice(0, 1);
+    </script>
+  </body>
+</html>

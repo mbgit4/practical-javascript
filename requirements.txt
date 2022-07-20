@@ -1,3 +1,9 @@
+Version 2
+1. It should have a function to add a todo
+2. It should have a function to edit a todo
+3. IT should have a function to remove a todo
+
+
 Version 1
 [x] It should have a place to store todos
 [x] It should have a way to display todos
