@@ -1,7 +1,7 @@
 Version 2
-1. It should have a function to add a todo
-2. It should have a function to edit a todo
-3. IT should have a function to remove a todo
+[x] It should have a function to add a todo
+[] It should have a function to edit a todo
+[] IT should have a function to remove a todo
 
 
 Version 1
